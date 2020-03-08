@@ -1,1 +1,1 @@
-"# functional-test" 
+functional-test
