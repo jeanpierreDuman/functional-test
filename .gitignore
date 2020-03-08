@@ -1,0 +1,8 @@
+# log
+geckodriver.log
+selenium-server.log
+
+# other
+package-lock.json
+node_modules/
+tests_output/
