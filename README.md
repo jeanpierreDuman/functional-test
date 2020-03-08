@@ -1,1 +1,1 @@
-functional-test
+Running functional test with Nightwatch. j's
